@@ -9,7 +9,7 @@ keys.forEach(function(key){
 
 
 // Write a named function with event handler properties
-
+//create index.js 
 
 // Write a loop that runs the array elements through the function
 
